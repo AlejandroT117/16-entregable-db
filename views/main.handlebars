@@ -1,0 +1,68 @@
+<h1>Añade un nuevo producto</h1>
+<div class="col-md-6 mb-3">
+  <form action="" method="post" id="form-new-product">
+    <div class="form-group">
+      <label for="nombre">Nombre del producto</label>
+      <input class="form-control" name='nombre' type='text' id='nombre' required>
+    </div>
+    <div class="form-group">
+      <label for="precio">Precio del producto</label>
+      <input class="form-control" name='precio' id='precio' required type='number'>
+    </div>
+    <div class="form-group">
+      <label for="img">URL a Imagen del Producto</label>
+      <input class="form-control" name='img' required id='img' type='url' pattern="https://.*">
+    </div>
+    <div class="form-group">
+      <label for="stock">Stock disponible</label>
+      <input class="form-control" name='stock' type='number' id='stock' required>
+    </div>
+    <div>
+      <button type="submit" class="btn btn-primary" id="send-new">Enviar</button>
+    </div>
+  </form>
+</div>
+
+<hr>
+<h1>Lista de productos</h1>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Nombre</th>
+      <th scope="col">Precio</th>
+      <th scope="col">Imagen</th>
+    </tr>
+  </thead>
+  <tbody id="tbody">
+    {{!-- {{#each objProductos}}
+      <tr>
+        <td>{{this.nombre}}</td>
+        <td>{{this.precio}}</td>
+        <td><img src="{{this.img}}" alt="{{this.nombre}}"></td>
+      </tr>
+    {{/each}} --}}
+  </tbody>
+
+</table>
+
+<hr>
+
+<h1>Centro de mensajes</h1>
+
+<form action="" id="mensajes-form">
+  <div class="form-group">
+    <label for="email-msg">Tu correo</label>
+    <input type="email" name="email-msg" id="email-msg" placeholder="Escribe tu correo" class="form-control">
+  </div>
+  <div class="form-group">
+    <label for="mensaje">Tu mensaje</label>
+    <input type="text" name="mensaje" id="mensaje" class="form-control">
+  </div>
+  <button type="submit" class="btn btn-primary" id="send-msg" name="send-msg" placeholder="Escribe un mensaje">Enviar mensaje</button>
+
+</form>
+
+<div class="card my-4" id="macro-card">
+</div>
+

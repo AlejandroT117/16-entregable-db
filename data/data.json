@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "nombre": "Control XBOX",
+    "precio": "1499",
+    "img": "https://m.media-amazon.com/images/I/71WX6wVepIL._AC_SX466_.jpg",
+    "stock": 40
+  },
+  {
+    "id": 2,
+    "nombre": "Televisión 55",
+    "precio": "13999",
+    "img": "https://m.media-amazon.com/images/I/61zlEVWvQzL._AC_SY355_.jpg",
+    "stock": 20
+  },
+  {
+    "id": 3,
+    "nombre": "Ventilador para laptop",
+    "precio": "399",
+    "img": "https://m.media-amazon.com/images/I/81orVm78EkS._AC_SY355_.jpg",
+    "stock": 60
+  },
+  {
+    "id": 4,
+    "nombre": "Laptop Surface",
+    "precio": "16999",
+    "img": "https://m.media-amazon.com/images/I/61OvV27-44L._AC_SL1500_.jpg",
+    "stock": 14
+  },
+  {
+    "id": 5,
+    "nombre": "Bocina bluetooth",
+    "precio": "999",
+    "img": "https://m.media-amazon.com/images/I/61Ph+p48yJL._AC_SY355_.jpg",
+    "stock": 100
+  },
+  {
+    "id": 6,
+    "nombre": "Audífonos true wireless",
+    "precio": "478",
+    "img": "https://m.media-amazon.com/images/I/51go1YZQLrL._AC_SY355_.jpg",
+    "stock": 22
+  },
+  {
+    "nombre": "Casco",
+    "precio": "500",
+    "img": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1556722010-giro-aether-mips-1556722003.jpg",
+    "stock": "45",
+    "id": 7
+  },
+  {
+    "nombre": "Cartera",
+    "precio": "254",
+    "img": "https://m.media-amazon.com/images/I/61WMfafdhAL._AC_SL1000_.jpg",
+    "stock": "3",
+    "id": 8
+  },
+  {
+    "nombre": "shampoo",
+    "precio": "45",
+    "img": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw3adaa66a/images/product/7500435114967-A.jpg?sw=1000&sh=1000&sm=fit",
+    "stock": "456",
+    "id": 9
+  },
+  {
+    "id": 10,
+    "nombre": "Xiaomi redmi 9",
+    "precio": "4999",
+    "img": "https://http2.mlstatic.com/D_NQ_NP_830330-MLA48798662445_012022-O.jpg",
+    "stock": "5"
+  },
+  {
+    "id": 11,
+    "nombre": "tacx neo 2t",
+    "precio": "32500",
+    "img": "https://static.garmincdn.com/en/products/T2875.60/g/cf-lg-dcdcf7d9-f287-4bdb-894d-44dc1806342b.jpg",
+    "stock": "5"
+  },
+  {
+    "id": 12,
+    "nombre": "GOPRO 10",
+    "precio": "10000",
+    "img": "https://cdn.pocket-lint.com/r/s/1200x/assets/images/158179-cameras-news-new-gopro-hero-10-images-leaked-showing-key-specs-and-design-image1-a6sylhupve.png",
+    "stock": "10"
+  },
+  {
+    "id": 13,
+    "nombre": "Focus Izalco",
+    "precio": "140000",
+    "img": "https://i.guim.co.uk/img/media/dcf3a9b9c9126e7335e95d7b172318a122b3b3ee/9_56_1478_887/master/1478.jpg?width=1200&quality=85&auto=format&fit=max&s=a1fc24652c3ee12b41adb5ed511c1137",
+    "stock": "2"
+  }
+]

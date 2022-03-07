@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "email": "ualejandrotrejo@gmail.com",
+    "mensaje": "Hola, CoderHouse",
+    "fecha": "20/02/2022 19:40:00"
+  },
+  {
+    "id": 2,
+    "email": "erisleimy@gmail.com",
+    "mensaje": "Probando",
+    "fecha": "20/02/2022 20:15:25"
+  }
+]
